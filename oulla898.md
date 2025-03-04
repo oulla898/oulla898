@@ -1,3 +1,3 @@
-# Hi, I'm Almoulla 👋 (aka oulla898)
+# Hi, I'm Almoulla 👋 
 
 Embedded systems enthusiast, robotics builder, and aspiring space-tech innovator.  I turn coffee into code (and sometimes robots)! ☕ ➡️ 🤖
