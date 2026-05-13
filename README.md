@@ -9,5 +9,5 @@
 <br>
 
 <a href="https://oulla898.github.io/cv.pdf">
-  <img src="https://img.shields.io/badge/View_Resume-PDF-D32F2F?style=flat&logo=readdotcv&logoColor=white" height="25" alt="CV Button">
+  <img src="https://img.shields.io/badge/View_Resume-PDF-D32F2F?style=flat&logo=readdotcv&logoColor=white" height="35" alt="CV Button">
 </a>
