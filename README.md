@@ -8,6 +8,8 @@
 
 <br>
 
-<a href="https://oulla898.github.io/cv.pdf">
-  <img src="https://img.shields.io/badge/View_Resume-PDF-D32F2F?style=flat&logo=readdotcv&logoColor=white" height="45" alt="CV Button">
-</a>
+<div align="left">
+  <a href="https://oulla898.github.io/cv.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-D32F2F?style=flat&logo=readdotcv&logoColor=white" height="36" alt="CV Button">
+  </a>
+</div>
